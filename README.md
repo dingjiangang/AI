@@ -7,3 +7,5 @@
 http://www.imorpheus.ai/journalClub    Journal club介绍与自动驾驶中定位方案相关的论文。 主要关注的方向有：SLAM算法、点云数据的处理和压缩、 特征地图、传感器数据处理和融合、 GNSS信号处理等。我们一直关注领域前沿技术， 选取得到广泛认可的、或者是在我们的实际使用中结果比较好的论文， 与大家分享，共同学习成长。   
 ##################在这里我会记录学习的方式及学习资源################################  
 1.udacity学习git&github网址  https://cn.udacity.com/course/how-to-use-git-and-github--ud775
+2.相关的udacity的一些项目已上传到github
+
