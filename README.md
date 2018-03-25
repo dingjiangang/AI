@@ -10,6 +10,7 @@ http://www.imorpheus.ai/journalClub    Journal club介绍与自动驾驶中定�
 2.相关的udacity的一些项目已上传到github  
 3.如何安装ros系统，请参照网站https://www.cnblogs.com/liu-fa/p/5779206.html   
 4.数据结构学习课程，清华大学邓俊辉：http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about    
-5.无人驾驶模拟环境Autoware安装方法：https://github.com/CPFL/Autoware/wiki/Generic-x86-Docker  
+5.无人驾驶模拟环境Autoware安装方法：https://github.com/CPFL/Autoware/wiki/Generic-x86-Docker   
+6.Eigen学习知识：http://eigen.tuxfamily.org/dox-devel/modules.html  关于几何模块请参考：http://eigen.tuxfamily.org/dox/group__TutorialGeometry.html
 
 
