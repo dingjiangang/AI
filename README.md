@@ -12,4 +12,5 @@ http://www.imorpheus.ai/journalClub    Journal club介绍与自动驾驶中定�
 4.数据结构学习课程，清华大学邓俊辉：http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about    
 5.无人驾驶模拟环境Autoware安装方法：https://github.com/CPFL/Autoware/wiki/Generic-x86-Docker   
 6.Eigen学习知识：http://eigen.tuxfamily.org/dox-devel/modules.html  关于几何模块请参考：http://eigen.tuxfamily.org/dox/group__TutorialGeometry.html   
-7.学习无人驾驶应知应会:https://zhuanlan.zhihu.com/p/27686577 
+7.学习无人驾驶应知应会:https://zhuanlan.zhihu.com/p/27686577   
+8.如何学习opencv：http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html  
