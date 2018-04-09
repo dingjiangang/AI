@@ -15,3 +15,8 @@ http://www.imorpheus.ai/journalClub    Journal club介绍与自动驾驶中定�
 7.学习无人驾驶应知应会:https://zhuanlan.zhihu.com/p/27686577   
 8.如何学习opencv：http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/tutorials.html  
 9.维基百科：https://en.wikipedia.org/wiki/   
+10.吴恩达两门机器学习课程地址：https://www.coursera.org/learn/machine-learning;http://cs229.stanford.edu/    
+11.麻省理工学院开放2018自动驾驶免费课程，也可以看2017年课程：https://selfdrivingcars.mit.edu/  
+12.Big Picture,Big Idea:https://matheecs.github.io/   
+13.关于slam的博客：http://www.cnblogs.com/wongyi/p/    
+14.强化学习：https://zhuanlan.zhihu.com/p/34918639?utm_source=wechat_session&utm_medium=social&wechatShare=1&from=singlemessage&isappinstalled=0   
