@@ -22,5 +22,6 @@ http://www.imorpheus.ai/journalClub    Journal club介绍与自动驾驶中定�
 14.强化学习：https://zhuanlan.zhihu.com/p/34918639?utm_source=wechat_session&utm_medium=social&wechatShare=1&from=singlemessage&isappinstalled=0   
 15.c++编程风格：https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md   
 16.c++guideline:https://github.com/isocpp/CppCoreGuidelines   
-17.https://vision.in.tum.de/data/datasets/rgbd-dataset/download
+17.https://vision.in.tum.de/data/datasets/rgbd-dataset/download  
+18.https://www.coursera.org/
 
