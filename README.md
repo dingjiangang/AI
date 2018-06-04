@@ -24,5 +24,6 @@ http://www.imorpheus.ai/journalClub    Journal club介绍与自动驾驶中定�
 16.c++guideline:https://github.com/isocpp/CppCoreGuidelines   
 17.https://vision.in.tum.de/data/datasets/rgbd-dataset/download  
 18.https://www.coursera.org/  
-19.keras  https://keras-cn.readthedocs.io/en/latest/backend/
+19.keras  https://keras-cn.readthedocs.io/en/latest/backend/  
+20.http://www.cvlibs.net/datasets/kitti/eval_road.php
 
