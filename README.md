@@ -27,3 +27,4 @@
 23.http://theory.stanford.edu/~amitp/GameProgramming/  path_planning study   
 24.http://www.cvpapers.com/   
 25.https://storage.googleapis.com/openimages/web/index.html  google最新数据集  
+26.http://www.cplusplus.com/reference/vector/vector/emplace_back/  
