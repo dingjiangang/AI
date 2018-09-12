@@ -28,4 +28,5 @@
 24.http://www.cvpapers.com/   
 25.https://storage.googleapis.com/openimages/web/index.html  google最新数据集  
 26.http://www.cplusplus.com/reference/vector/vector/emplace_back/  
-27.https://zh.cppreference.com/w/cpp   
+27.https://zh.cppreference.com/w/cpp  
+28.https://paperswithcode.com/   
