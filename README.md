@@ -31,4 +31,5 @@
 27.https://zh.cppreference.com/w/cpp  
 28.https://paperswithcode.com/   
 29.https://blog.csdn.net/u014734886/article/details/78830713 coco数据集下载  
-30.https://leetcode-cn.com/problemset/all/  leetcode  
+30.https://leetcode-cn.com/problemset/all/  leetcode   
+31.https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386820062641f3bcc60a4b164f8d91df476445697b9e000  
