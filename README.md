@@ -36,3 +36,5 @@
 32.https://www.cnblogs.com/hellcat/p/6925757.html tensorflow 加载图   
 33.https://hk029.gitbooks.io/leetbook/  leetcode algorithem  
 34.https://y2mate.com/  youtube download  
+35.http://blog.leanote.com/post/afanti/b5f4f526490b  roi_pooling roi_align  
+36.http://blog.leanote.com/post/afanti.deng@gmail.com/Position-Sensitive ps_roi  ps_align  
