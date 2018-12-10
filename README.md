@@ -40,3 +40,7 @@
 36.http://blog.leanote.com/post/afanti.deng@gmail.com/Position-Sensitive ps_roi  ps_align  
 37.http://www.donkeycar.com/  小车制作  
 38.https://tensorspace.org/index_zh.html  https://tensorspace.org/html/playground/index_zh.html  
+39.https://github.com/sun254/awesome-model-compression-and-acceleration  
+  https://github.com/Tencent/PocketFlow  
+  https://github.com/ZhishengWang/Embedded-Neural-Network  
+  https://github.com/hiteshvaidya/Model-Compression  
