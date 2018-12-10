@@ -39,3 +39,4 @@
 35.http://blog.leanote.com/post/afanti/b5f4f526490b  roi_pooling roi_align  
 36.http://blog.leanote.com/post/afanti.deng@gmail.com/Position-Sensitive ps_roi  ps_align  
 37.http://www.donkeycar.com/  小车制作  
+38.https://tensorspace.org/index_zh.html  https://tensorspace.org/html/playground/index_zh.html  
