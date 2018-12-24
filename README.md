@@ -45,3 +45,4 @@
   https://github.com/ZhishengWang/Embedded-Neural-Network  
   https://github.com/hiteshvaidya/Model-Compression  
 40.https://www.youtube.com/watch?v=ghEmQSxT6tw 可视化  
+41.https://blog.csdn.net/SrdLaplace/article/details/82194366 https://blog.csdn.net/kesonyk/article/details/53819132  imagenet  
