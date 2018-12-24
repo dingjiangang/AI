@@ -44,3 +44,4 @@
   https://github.com/Tencent/PocketFlow  
   https://github.com/ZhishengWang/Embedded-Neural-Network  
   https://github.com/hiteshvaidya/Model-Compression  
+40.https://www.youtube.com/watch?v=ghEmQSxT6tw 可视化  
