@@ -49,3 +49,4 @@
 42.https://keras-cn.readthedocs.io/en/latest/other/callbacks/   
 43.https://www.jianshu.com/p/091415b114e2  moxingguhua  
 44.https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md  强大的库  
+45.https://blog.csdn.net/ljyt2/article/details/82146163  object detection  
