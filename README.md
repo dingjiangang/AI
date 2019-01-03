@@ -50,3 +50,6 @@
 43.https://www.jianshu.com/p/091415b114e2  moxingguhua  
 44.https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md  强大的库  
 45.https://blog.csdn.net/ljyt2/article/details/82146163  object detection  
+46.剪枝：https://github.com/Be997398715/keras_pruning
+知识蒸馏：https://github.com/Be997398715/Knowledge_Distrilling
+量化：https://github.com/Be997398715/BinaryNet   
