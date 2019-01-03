@@ -53,3 +53,4 @@
 46.剪枝：https://github.com/Be997398715/keras_pruning
 知识蒸馏：https://github.com/Be997398715/Knowledge_Distrilling
 量化：https://github.com/Be997398715/BinaryNet   
+47.https://github.com/tensorspace-team/tensorspace  https://tensorspace.org/index_zh.html  https://tensorspace.org/html/playground/index_zh.html  
