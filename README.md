@@ -54,3 +54,4 @@
 知识蒸馏：https://github.com/Be997398715/Knowledge_Distrilling
 量化：https://github.com/Be997398715/BinaryNet   
 47.https://github.com/tensorspace-team/tensorspace  https://tensorspace.org/index_zh.html  https://tensorspace.org/html/playground/index_zh.html  
+48。https://www.cnblogs.com/luowentao/p/8972801.html  
