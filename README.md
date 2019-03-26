@@ -62,4 +62,5 @@
 53.http://www.cplusplus.com/reference/unordered_map/unordered_map/insert/  
 54.gflags 使用 https://gflags.github.io/gflags/ http://dreamrunner.org/blog/2014/03/09/gflags-jian-ming-shi-yong/ http://www.yeolar.com/note/2014/12/14/gflags/  
 55.https://www.mathworks.com/help/driving/examples/sensor-fusion-using-synthetic-radar-and-vision-data.html    
-56.http://www.ti.com/tool/TDA3XEVM  
+56.http://www.ti.com/tool/TDA3XEVM    
+57.https://scale.ai/sales  
