@@ -66,4 +66,28 @@
 57.https://scale.ai/sales  
 58.https://www.cnblogs.com/lxm20145215----/p/5905765.html 
 59.https://blog.csdn.net/ipfpm/article/details/83504491  
+60.     
+61.https://fcav.engin.umich.edu/research/modeling-camera-effects  
+62.https://fcav.engin.umich.edu/research/pickup-and-delivery  
+63.https://fcav.engin.umich.edu/research/pedestrians-at-complex-urban-intersections  
+64.https://github.com/waymo-research/waymo-open-dataset  
+65.https://github.com/chhshen/pedestrian-detection?files=1   行人检测  
+66.https://github.com/syedhope/Lane-Detection  车道线检测  
+67.https://mp.weixin.qq.com/s?__biz=MjM5NDY4NjYwMA==&mid=2649469935&idx=1&sn=44201265e01723186f4001a6286d27bc&chksm=be9ce00889eb691e72634bc538f858ced15e263308a03baaa7de94b08d253056bf02adc7ecff&mpshare=1&scene=1&srcid=&sharer_sharetime=1566221351478&sharer_shareid=6adc7543754f98d8bf71771d883d4444&pass_ticket=nRpbzEaniPuTkP0i%2FeqB7oet5l0xH9uULbjtj9X5zIzPo23dhm%2BmuTB8SzX6PtGB#rd   论文合集  
+
+68.http://abcxueyuan.cloud.baidu.com/#/play_video?id=14940&courseId=14940&mediaId=mda-jctibq21006y4xb9&videoId=1929&type=%E5%85%8D%E8%B4%B9%E8%AF%BE%E7%A8%8B   apollo学院  
+69.https://blog.csdn.net/LOVE1055259415/article/details/80575432  ros qt界面开发  
+70.https://download.csdn.net/download/weixin_38049323/10998256  ros can 通信   
+71.https://blog.csdn.net/learning_tortosie/article/details/86484505   autoware tx2   
+72.https://mp.weixin.qq.com/s?__biz=MzI1ODYwOTkzNg==&mid=2247496635&idx=1&sn=a9500b262a4af184fd1ae847ccc5f19c&chksm=ea0735c4dd70bcd2803e408144a103d6ed956219b70de77903b0a74ae79710947df36b3d36ea&mpshare=1&scene=1&srcid=&sharer_sharetime=1564027082071&sharer_shareid=6adc7543754f98d8bf71771d883d4444&pass_ticket=nRpbzEaniPuTkP0i%2FeqB7oet5l0xH9uULbjtj9X5zIzPo23dhm%2BmuTB8SzX6PtGB#rd  数据集   
+
+73.http://www.51apollo.com/2018/02/23/14%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98apollo2-0%E5%AE%9A%E4%BD%8D%E6%A8%A1%E5%9D%97%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E7%AE%97%E6%B3%95%EF%BC%9F/   apollo 定位算法  
+74.https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247513375&idx=1&sn=c5a9a6436b5371d1830397fcd02efb9e&chksm=fc86540ccbf1dd1ae0333d142d4bb97aa2baa1d352545536334f61c5273109df67f73ff20d18&mpshare=1&scene=1&srcid=&pass_ticket=nRpbzEaniPuTkP0i%2FeqB7oet5l0xH9uULbjtj9X5zIzPo23dhm%2BmuTB8SzX6PtGB#rd  知识蒸馏从入门到精通   
+
+75.https://github.com/0voice/interview_internal_reference  面试汇总    
+76.https://blog.csdn.net/u013914471/article/details/82775091  apollo控制模块  
+77.https://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODQ1Mw==&mid=2247496435&idx=1&sn=f302548fdb4c6c8ca14a644535a3fe64&chksm=fe41ff09c936761fd7f3f107acf84dc31ce23ea1747c39e788a58ce81bec949e5ac5477015d3&mpshare=1&scene=1&srcid=&pass_ticket=nRpbzEaniPuTkP0i%2FeqB7oet5l0xH9uULbjtj9X5zIzPo23dhm%2BmuTB8SzX6PtGB#rd  LQGA ACC控制算法  
+
+78.https://blog.csdn.net/u013914471/article/details/82775091  apollo控制   
+
  
