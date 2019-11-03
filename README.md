@@ -89,6 +89,7 @@
 77.https://mp.weixin.qq.com/s?__biz=MzU5ODQ5ODQ1Mw==&mid=2247496435&idx=1&sn=f302548fdb4c6c8ca14a644535a3fe64&chksm=fe41ff09c936761fd7f3f107acf84dc31ce23ea1747c39e788a58ce81bec949e5ac5477015d3&mpshare=1&scene=1&srcid=&pass_ticket=nRpbzEaniPuTkP0i%2FeqB7oet5l0xH9uULbjtj9X5zIzPo23dhm%2BmuTB8SzX6PtGB#rd  LQGA ACC控制算法  
 
 78.https://blog.csdn.net/u013914471/article/details/82775091  apollo控制   
-79。https://me.csdn.net/AdamShan  
+79.https://me.csdn.net/AdamShan  
+80.http://www.mindthink.me/2018/07/15/planner/  
 
  
