@@ -94,5 +94,6 @@
 81.https://blog.csdn.net/u013914471/article/details/83824490  
 82.http://blog.sina.com.cn/s/blog_a7c0455c0102y9og.html   低通滤波  
 83.https://blog.csdn.net/AdamShan/article/details/78696874  重要博客  
+84.http://www.elecfans.com/d/875759.html  横向控制
 
  
